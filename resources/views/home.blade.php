@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>ini halaman homepage</h1>
-
+    <p>selamat datang di website saya</p>
+    
 </body>
 </html>
